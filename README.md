@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/></h1>
+<h1>Hi, I'm Zed! <br/></h1>
 <b>I have a strong technical background with a deep understanding of software, digital tools, and modern technology. I’m highly proficient in Adobe Photoshop, Lightroom, Premiere Pro, and Microsoft Office (Word, Excel, PowerPoint), allowing me to handle everything from graphic design and photo editing to video production and data management efficiently. I stay up to date with industry trends, software advancements, and digital workflows, adapting quickly to new tools and technologies. Whether it’s troubleshooting software, optimizing workflows, or mastering new platforms, I’m always looking for ways to improve efficiency and stay ahead in the digital space..</b>
 <h2>👨‍💻 Freelance/Assistant:</h2>
 
