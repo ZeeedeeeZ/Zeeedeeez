@@ -11,34 +11,9 @@
 - <b>🖥️ Tech Stuffs 🖱️</b>
   - I have strong experience in photography and videography, focusing on capturing natural, candid moments that feel real and immersive. While I’m not a full pro yet, I have a solid understanding of composition, lighting, and framing, allowing me to create visuals that are both engaging and authentic. I prefer to keep my shots unscripted and organic, bringing out the raw emotions and atmosphere of every scene. My skills in Adobe Lightroom, Photoshop, and Premiere Pro help me enhance and refine my work while maintaining a realistic and cinematic feel. Whether it’s portraits, events, or storytelling through video, I aim to create content that draws people in and makes them feel like they’re part of the moment.
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Links for Photo & Video samples</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://https://www.instagram.com/zdu.mw.npz/
-[linkedin]: https://www.linkedin.com/in/pridz-edduard-saludes-4331b82b7/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instagram : https://www.instagram.com/zdu.mw.npz/
+LinkedIn : https://www.linkedin.com/in/pridz-edduard-saludes-4331b82b7/
