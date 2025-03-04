@@ -9,7 +9,18 @@
 - <b>Photo and Video Editing</b>
   - I have strong experience in photography and videography, capturing and creating visually compelling content with a mix of creativity and technical skill. While I’m not a full pro yet, I have a solid grasp of composition, lighting, and framing to produce high-quality shots. I’m skilled in photo and video editing, using Adobe Lightroom, Photoshop, and Premiere Pro to enhance visuals, color grade, and refine the final output. Whether it’s portraits, events, cinematic clips, or creative projects, I bring a sharp eye for detail and a passion for storytelling to every shot. Always improving and refining my craft, I aim to deliver polished and engaging visuals that stand out.
 - <b>🖥️ Tech Stuffs 🖱️</b>
-  - I have strong experience in photography and videography, focusing on capturing natural, candid moments that feel real and immersive. While I’m not a full pro yet, I have a solid understanding of composition, lighting, and framing, allowing me to create visuals that are both engaging and authentic. I prefer to keep my shots unscripted and organic, bringing out the raw emotions and atmosphere of every scene. My skills in Adobe Lightroom, Photoshop, and Premiere Pro help me enhance and refine my work while maintaining a realistic and cinematic feel. Whether it’s portraits, events, or storytelling through video, I aim to create content that draws people in and makes them feel like they’re part of the moment.
+  - Professional with a strong background in digital art, video editing, and productivity tools. Skilled in Photoshop, Premiere Pro, Lightroom, and Microsoft Office (Word, Excel, PowerPoint), I bring both creativity and efficiency to every project.
+
+With experience in administrative work, including email management, scheduling, and organization, I know how to balance creativity with structure. My passion for gaming, metal music, and movies influences my work, blending technical expertise with a unique artistic touch.
+
+Whether it’s designing visuals, editing videos, or streamlining workflows, I’m always focused on precision, quality, and impact.
+
+Skills & Expertise
+✔ Digital Art & Design – Photoshop, Lightroom
+✔ Video Editing – Premiere Pro
+✔ Productivity & Organization – Microsoft Office Suite
+✔ Administrative Support – Email & schedule management
+✔ Creative Vision & Problem-Solving
 
 <h2>Links for Photo & Video samples</h2>
 
