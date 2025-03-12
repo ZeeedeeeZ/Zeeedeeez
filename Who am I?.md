@@ -25,6 +25,9 @@ Skills & Expertise
 <h2>Link for Video Samples</h2>
 https://drive.google.com/file/d/1cAGwS4mP2-vo4LVWVEbgokPRmzdmhvRq/view?usp=sharing
 
+<h2>Link for my Pixel Art account</h2>
+https://www.instagram.com/pixzecl/
+
 <h2> 🤳 Connect with me:</h2>
 Instagram : https://www.instagram.com/zdu.mw.npz/
 LinkedIn : https://www.linkedin.com/in/pridz-edduard-saludes-4331b82b7/
