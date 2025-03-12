@@ -29,5 +29,5 @@ https://drive.google.com/file/d/1cAGwS4mP2-vo4LVWVEbgokPRmzdmhvRq/view?usp=shari
 https://www.instagram.com/pixzecl/
 
 <h2> 🤳 Connect with me:</h2>
-Instagram : https://www.instagram.com/zdu.mw.npz/
+<b>Instagram : https://www.instagram.com/zdu.mw.npz/</b>
 LinkedIn : https://www.linkedin.com/in/pridz-edduard-saludes-4331b82b7/
