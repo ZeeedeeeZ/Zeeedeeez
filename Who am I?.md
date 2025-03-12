@@ -23,8 +23,7 @@ Skills & Expertise
 ✔ Creative Vision & Problem-Solving
 
 <h2>Link for Video Samples</h2>
-https://drive.google.com/file/d/1cAGwS4mP2-vo4LVWVEbgokPRmzdmhvRq/view?usp=sharing
-
+https://drive.google.com/drive/folders/1GTBw_UYM_vVOFpuXWNED-EP_JmsCNmjw?usp=sharing
 <h2>Link for my Pixel Art account</h2>
 https://www.instagram.com/pixzecl/
 
