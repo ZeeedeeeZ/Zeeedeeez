@@ -17,7 +17,7 @@ Whether it’s designing visuals, editing videos, or streamlining workflows, I�
 
 Skills & Expertise
 ✔ Digital Art & Design – Photoshop, Lightroom
-✔ Video Editing – Premiere Pro
+✔ Video Editing – Premiere Pro, Davinci Resolve
 ✔ Productivity & Organization – Microsoft Office Suite
 ✔ Administrative Support – Email & schedule management
 ✔ Creative Vision & Problem-Solving
@@ -30,4 +30,5 @@ https://www.instagram.com/pixzecl/
 
 <h2> 🤳 Connect with me:</h2>
 <b>Instagram : https://www.instagram.com/zdu.mw.npz/</b>
-LinkedIn : https://www.linkedin.com/in/pridz-edduard-saludes-4331b82b7/
+<b>LinkedIn : https://www.linkedin.com/in/pridz-edduard-saludes-4331b82b7/</b>
+
