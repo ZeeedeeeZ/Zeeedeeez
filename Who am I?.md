@@ -2,7 +2,7 @@
 <b>I have a strong technical background with a deep understanding of software, digital tools, and modern technology. I’m highly proficient in Adobe Photoshop, Lightroom, Premiere Pro, and Microsoft Office (Word, Excel, PowerPoint), allowing me to handle everything from graphic design and photo editing to video production and data management efficiently. I stay up to date with industry trends, software advancements, and digital workflows, adapting quickly to new tools and technologies. Whether it’s troubleshooting software, optimizing workflows, or mastering new platforms, I’m always looking for ways to improve efficiency and stay ahead in the digital space..</b>
 <h2>👨‍💻 Freelance/Assistant:</h2>
 
-- <b>📷 Photography Knowledge</b>
+- <b>📷 Photography/Graphic Design</b>
   - I am proficient in Adobe Photoshop and Lightroom, specializing in graphic design, digital imaging, and visual content creation. With a keen eye for detail and composition, I design logos, banners, posters, social media graphics, and branding materials that effectively communicate ideas. My expertise includes photo manipulation, retouching, color correction, typography, and layer-based editing in Photoshop, while utilizing Lightroom for advanced color grading, tone adjustments, and batch editing to enhance and maintain a consistent visual style. Whether crafting sleek, modern designs or bold, artistic concepts, I combine creativity with technical precision to bring compelling visuals to life.
 - <b>📽️ Videography Knowledge</b>
   - I am proficient in Adobe Premiere Pro, with extensive experience in video editing, color grading, and post-production workflows. I specialize in crafting high-quality visuals by seamlessly cutting, arranging, and enhancing footage to create engaging narratives. My expertise includes transitions, effects, motion graphics, audio synchronization, and advanced color correction, ensuring every project maintains a professional and polished look. Whether it’s short-form content, cinematic edits, or full-scale productions, I bring both technical precision and creative storytelling to every edit.
@@ -22,8 +22,8 @@ Skills & Expertise
 ✔ Administrative Support – Email & schedule management
 ✔ Creative Vision & Problem-Solving
 
-<h2>Links for Photo & Video samples</h2>
-
+<h2>Link for Video Samples</h2>
+https://drive.google.com/file/d/1cAGwS4mP2-vo4LVWVEbgokPRmzdmhvRq/view?usp=sharing
 
 <h2> 🤳 Connect with me:</h2>
 Instagram : https://www.instagram.com/zdu.mw.npz/
