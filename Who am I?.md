@@ -22,7 +22,7 @@ Skills & Expertise
 ✔ Administrative Support – Email & schedule management
 ✔ Creative Vision & Problem-Solving
 
-<h2>Link for Video Samples</h2>
+<h2>Link for Photo & Video Samples</h2>
 https://drive.google.com/drive/folders/1GTBw_UYM_vVOFpuXWNED-EP_JmsCNmjw?usp=sharing
 <h2>Link for my Pixel Art account</h2>
 https://www.instagram.com/pixzecl/
