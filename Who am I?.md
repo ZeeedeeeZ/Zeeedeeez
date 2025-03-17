@@ -26,7 +26,8 @@ Skills & Expertise
 https://drive.google.com/drive/folders/1GTBw_UYM_vVOFpuXWNED-EP_JmsCNmjw?usp=sharing
 <h2>Link for my Pixel Art account</h2>
 https://www.instagram.com/pixzecl/
-
+<h2>Link for my Graphic Desings</h2>
+https://drive.google.com/drive/folders/1Y11HafGk6ghj1KTyewxu5ceWwM8oNb-D?usp=sharing
 <h2> 🤳 Connect with me:</h2>
 <b>Instagram : https://www.instagram.com/zdu.mw.npz/</b>
 <b>LinkedIn : https://www.linkedin.com/in/pridz-edduard-saludes-4331b82b7/</b>
